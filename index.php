@@ -6,5 +6,6 @@
     </head>
     <body>
         <a>managing conflict</a>
+        window2
     </body>
 </html>
