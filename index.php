@@ -6,6 +6,10 @@
     </head>
     <body>
         <a>managing conflict</a>
+<<<<<<< HEAD
         window2
+=======
+        window 1
+>>>>>>> 787d2b1e7a88076036793e05d1d77ba8c318939a
     </body>
 </html>
